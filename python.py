@@ -1,6 +1,7 @@
 x=input()
 y=input()
-z = x +y
+z = x -y
 print(z)
 print(x)
-print(z+y)
+print(z-y)
+print(complete)
